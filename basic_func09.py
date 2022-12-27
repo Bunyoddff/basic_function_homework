@@ -1,5 +1,7 @@
 # Create a function called main.
-def main(a)
+def main(a):
 # Create dfunction arguments a.
-    return a-1
+    a-=1
+    return a
 # decrease the value of a to one and return
+
